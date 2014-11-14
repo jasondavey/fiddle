@@ -1,0 +1,4 @@
+RefactoringDemo/RefactoringDemo/bin/Debug/RefactoringDemo.vshost.exe
+**/bin/**
+**/obj/**
+*.manifest

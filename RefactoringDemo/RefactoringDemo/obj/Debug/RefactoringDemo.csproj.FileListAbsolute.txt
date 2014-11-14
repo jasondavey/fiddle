@@ -1,0 +1,12 @@
+c:\users\ye44727\documents\visual studio 2013\Projects\RefactoringDemo\RefactoringDemo\bin\Debug\RefactoringDemo.exe.config
+c:\users\ye44727\documents\visual studio 2013\Projects\RefactoringDemo\RefactoringDemo\bin\Debug\RefactoringDemo.exe
+c:\users\ye44727\documents\visual studio 2013\Projects\RefactoringDemo\RefactoringDemo\bin\Debug\RefactoringDemo.pdb
+c:\users\ye44727\documents\visual studio 2013\Projects\RefactoringDemo\RefactoringDemo\obj\Debug\RefactoringDemo.csprojResolveAssemblyReference.cache
+c:\users\ye44727\documents\visual studio 2013\Projects\RefactoringDemo\RefactoringDemo\obj\Debug\RefactoringDemo.exe
+c:\users\ye44727\documents\visual studio 2013\Projects\RefactoringDemo\RefactoringDemo\obj\Debug\RefactoringDemo.pdb
+C:\Users\YE44727\Documents\Engineering\Learning\C#\RefactoringDemo\bin\Debug\RefactoringDemo.exe.config
+C:\Users\YE44727\Documents\Engineering\Learning\C#\RefactoringDemo\bin\Debug\RefactoringDemo.exe
+C:\Users\YE44727\Documents\Engineering\Learning\C#\RefactoringDemo\bin\Debug\RefactoringDemo.pdb
+C:\Users\YE44727\Documents\Engineering\Learning\C#\RefactoringDemo\obj\Debug\RefactoringDemo.exe
+C:\Users\YE44727\Documents\Engineering\Learning\C#\RefactoringDemo\obj\Debug\RefactoringDemo.pdb
+C:\Users\YE44727\Documents\Engineering\Learning\C#\RefactoringDemo\obj\Debug\RefactoringDemo.csprojResolveAssemblyReference.cache
