@@ -2,7 +2,7 @@
 using System.Web;
 using System.Web.Http;
 
-namespace DSO_DotNet
+namespace DSOApi
 {
     public class Global : HttpApplication
     {

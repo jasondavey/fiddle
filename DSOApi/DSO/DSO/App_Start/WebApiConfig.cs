@@ -1,6 +1,6 @@
 ﻿using System.Web.Http;
 
-namespace DSO_DotNet
+namespace DSOApi
 {
     public static class WebApiConfig
     {

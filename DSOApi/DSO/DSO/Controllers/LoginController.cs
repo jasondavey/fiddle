@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Web.Http;
 
-namespace DSO_DotNet
+namespace DSOApi
 {
     public class LoginController : ApiController
     {
