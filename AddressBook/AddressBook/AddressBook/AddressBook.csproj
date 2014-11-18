@@ -41,9 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Address.cs" />
-    <Compile Include="AddressBook.cs" />
-    <Compile Include="AddressBooks.cs" />
+    <Compile Include="Behaviors\AddressImportFromCSV.cs" />
+    <Compile Include="Behaviors\InternationalAddressValidation.cs" />
+    <Compile Include="Contracts\IAddressExporter.cs" />
+    <Compile Include="Contracts\IAddressImporter.cs" />
+    <Compile Include="Domain\Address.cs" />
+    <Compile Include="Behaviors\AddressBookExportAsCSV.cs" />
+    <Compile Include="Behaviors\DomesticAddressValidation.cs" />
+    <Compile Include="Domain\InternationalAddress.cs" />
+    <Compile Include="Domain\DomesticAddress.cs" />
+    <Compile Include="Contracts\IAddress.cs" />
+    <Compile Include="Domain\AddressBook.cs" />
+    <Compile Include="Domain\AddressBooks.cs" />
+    <Compile Include="Contracts\IAddressBookService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,6 +1,6 @@
 ﻿namespace AddressBook
 {
-    public class Address
+    internal class Address : IAddress
     {
         public string StreetOne { get; set; }
         public string StreetTwo { get; set; }
