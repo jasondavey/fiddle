@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSOApi", "DSO_DotNet\DSOApi.csproj", "{B120C077-877D-4484-966F-E6A9263340B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{40F389E8-82E9-4C61-B17B-8FCFB485AED4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{BA98A611-7984-474D-A109-E03EEAA3CB5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B120C077-877D-4484-966F-E6A9263340B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B120C077-877D-4484-966F-E6A9263340B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B120C077-877D-4484-966F-E6A9263340B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B120C077-877D-4484-966F-E6A9263340B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BA98A611-7984-474D-A109-E03EEAA3CB5A} = {40F389E8-82E9-4C61-B17B-8FCFB485AED4}
+	EndGlobalSection
+EndGlobal
